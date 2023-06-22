@@ -1,5 +1,6 @@
 ### A Wix Data Next.js Education Template
 
+
 ![](docs/media/template-showcase.gif)
 
 This template is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It uses [Wix Headless](https://dev.wix.com/api/sdk/about-wix-headless/overview) to leverage the Wix CMS business solution for managing the content on an education site.
